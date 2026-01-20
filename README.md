@@ -1,5 +1,7 @@
 # 서울시 권역 간 소비 구조 차이 분석
 ### Data-driven Regional Segmentation Strategy for Seoul Consumption Patterns
+## 📓 Analysis Notebook
+- [seoul_consumption_analysis.ipynb](notebooks/seoul_consumption_analysis.ipynb)
 
 ---
 
