@@ -39,6 +39,12 @@
 - **데이터명**: 서울시 상권분석서비스 (소득·소비·자치구)
 - **분석 단위**: 행정동 → 자치구 → 권역 단위로 재구성
 
+## Raw Data
+- Source: Seoul Open Data Plaza
+- Dataset: Commercial Analysis Service (Income & Consumption, District-level)
+- Encoding: EUC-KR
+- File: seoul_income_consumption_gu.csv
+
 ### 주요 변수
 - 총지출
 - 교육 지출
