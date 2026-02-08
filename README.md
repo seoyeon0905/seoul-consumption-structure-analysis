@@ -3,7 +3,7 @@
 
 ## 📎 Files
 - 📄 [Analysis Results (PDF)](results/analysis_results.pdf)
-- 📊 [Raw Data (CSV)](data/seoul_consumption.csv)
+- 📊 [Raw Data (CSV)](data/seoul_income_consumption_gu.csv)
 
 ## 📓 Analysis Notebook
 - [seoul_consumption_analysis.ipynb](notebooks/seoul_consumption_analysis.ipynb)
